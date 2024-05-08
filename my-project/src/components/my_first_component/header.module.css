@@ -4,3 +4,12 @@
 .container {
     background-color: rgb(179, 226, 236);
 }
+
+.button1Styles {
+    background-color: cadetblue;
+    border-radius: 10px;
+}
+.button2Styles {
+    background-color: blueviolet;
+    border-width: 0px;
+}

@@ -8,6 +8,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
+    "@types/lodash": "^4.17.1",
     "@types/node": "^16.18.96",
     "@types/react": "^18.2.77",
     "@types/react-dom": "^18.2.25",
@@ -22,7 +23,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
